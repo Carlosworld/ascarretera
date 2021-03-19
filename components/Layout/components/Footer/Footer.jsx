@@ -20,9 +20,9 @@ export default function Footer() {
                     <br />
                     Lunes a viernes de 7:00am a 8:00pm
                     <br />
-                    Sábados de 7:00am a 8:00pm
+                    Sábados de 7:00am a 2:00pm
                     <br />
-                    Teléfonos (753) 537 1349 y (753) 168 3407.
+                    Teléfonos (753) 537 3761, (753) 540 5810 y (753) 139 7277.
                   </p>
                   {/* <ul>
                     <li>

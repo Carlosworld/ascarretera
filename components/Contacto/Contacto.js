@@ -7,7 +7,7 @@ const Contacto = () => {
                 <h2 class="fw-300 centrar-texto">Contáctanos</h2>
                 {/* <!-- <div id="mapa" class="mapa"></div> --> */}
                 <p>Dirección: Nicolás Bravo 341, Centro, Cd. L. Cárdenas, Mich., MX.</p>
-                <p>Teléfonos: (753) 537 1349, (753) 168 3407 y (753) 181 1195 </p>
+                <p>Teléfonos: (753) 537 3761, (753) 540 5810 y (753) 139 7277 </p>
                 <p>Correo: <a href="mailto:info@ascarretera.com">info@ascarretera.com</a></p>
 
                 {/* <!-- <nav class="redes-sociales">
