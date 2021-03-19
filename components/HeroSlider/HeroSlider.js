@@ -11,7 +11,7 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                    <br />
+                    OPERADORES DE QUINTA RUEDA, AUTOBUSES<br /> TORTONS, ENTRE OTROS.
                   </strong>
                 </h1>
                 <p className="m-b-40">
@@ -20,7 +20,7 @@ export default function HeroSlider() {
                 </p>
                 <p>
                   <a className="btn hvr-hover" href="/our-services">
-                    
+                    SERVICIOS
                   </a>
                 </p>
               </div>
@@ -34,16 +34,17 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                      <br /> 
+                    UNION LABORAL DE TRAILEROS<br /> 
                   </strong>
                 </h1>
                 <p className="m-b-40">
-                  {" "}
+                Agencia de trabajo internacional  para traileros.{" "}
                   <br />
+                  Para trabajadores del volante.
                 </p>
                 <p>
                   <a className="btn hvr-hover" href="/our-services">
-                    
+                    Servicios
                   </a>
                 </p>
               </div>
@@ -57,7 +58,7 @@ export default function HeroSlider() {
               <div className="col-md-12">
                 <h1 className="m-b-20">
                   <strong>
-                   <br />
+                   RECLUTANDO PERSONAL DESDE 1991<br /> 30 AÑOS A SUS SERVICIOS
                   </strong>
                 </h1>
                 <p className="m-b-40">
@@ -66,7 +67,7 @@ export default function HeroSlider() {
                 </p>
                 <p>
                   <a className="btn hvr-hover" href="#">
-                    
+                    SERVICIOS
                   </a>
                 </p>
               </div>
