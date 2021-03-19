@@ -5,7 +5,7 @@ export default function HeroSlider() {
     <div id="slides-shop" className="cover-slides">
       <ul className="slides-container">
         <li className="text-left">
-          <img src="images/banner-01.jpg" alt="" />
+          <img src="images/01.jpg" alt="" />
           <div className="container">
             <div className="row">
               <div className="col-md-12">
@@ -28,7 +28,7 @@ export default function HeroSlider() {
           </div>
         </li>
         <li className="text-center">
-          <img src="images/banner-02.jpg" alt="" />
+          <img src="images/02.jpg" alt="" />
           <div className="container">
             <div className="row">
               <div className="col-md-12">
@@ -51,7 +51,7 @@ export default function HeroSlider() {
           </div>
         </li>
         <li className="text-right">
-          <img src="images/banner-03.jpg" alt="" />
+          <img src="images/03.jpg" alt="" />
           <div className="container">
             <div className="row">
               <div className="col-md-12">
