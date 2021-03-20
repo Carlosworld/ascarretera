@@ -60,7 +60,7 @@ export default function TopBar() {
             <div className="our-link">
               <ul>
                 <li>
-                  <a href="https://www.facebook.com/limpiezaind" target="blank"><i class="fab fa-facebook" /></a>
+                  <a href="https://www.facebook.com/trockerosvisados/" target="blank"><i class="fab fa-facebook" /></a>
                   {/* <a href="#">My Account</a> */}
                 </li>
                 <li>
