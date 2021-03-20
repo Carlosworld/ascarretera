@@ -26,7 +26,7 @@ export default function About() {
                 Nosotros<span></span>
               </h2>
               <p>
-                AsCarreterra es un grupo de consultores de origen latinoamericano que trabajan o desean trabajar en Canadá & EUA bajo los principios de unión, confianza y ayuda mutua.
+                AsCarreterra favorecer el perfeccionamiento profesional de nuestros miembros mediante la educación, capacitación y adopción de las mejores prácticas de seguridad, técnicas de conducción, servicio y conducta con el fin de promover el crecimiento, la sostenibilidad y la rentabilidad de la industria del transporte en EUA & Canadá.
               </p>
               <p>
                
