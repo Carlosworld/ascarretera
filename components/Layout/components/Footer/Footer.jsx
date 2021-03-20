@@ -103,7 +103,7 @@ export default function Footer() {
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link-contact">
-                  <h4>Encuentra nos también en</h4>
+                  <h4>Encuentranos también en</h4>
                   <ul>
                     <li>
                       <p>
