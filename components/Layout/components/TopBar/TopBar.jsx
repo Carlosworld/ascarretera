@@ -8,7 +8,7 @@ export default function TopBar() {
           <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div className="text-slid-box">
               <div id="offer-box" className="carouselTicker">
-                <p>Limpieza Industrial Servicios de limpieza a negocios</p>
+                <p>Reclutamiento nacional e internacional de traileros</p>
                 {/* <ul className="offer-box">
                   <li>
                     <i className="fab fa-opencart"></i> Off 10%! Shop Now Man

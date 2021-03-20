@@ -12,7 +12,7 @@ export default function Footer() {
             <div className="row">
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-widget">
-                  <h4></h4>
+                  <h4>Sobre Ascarretera</h4>
                   <p>
                     Nicolas Bravo 341. centro, Cd. Lázaro Cárdenas, Mich, Mx.
                     <br />
@@ -72,11 +72,13 @@ export default function Footer() {
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link">
                   <h4>Últimas Publicaciones</h4>
-                  {/* <div class="fb-page" data-href="https://www.facebook.com/limpiezaind" data-tabs="timeline" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
-                    <blockquote cite="https://www.facebook.com/limpiezaind" class="fb-xfbml-parse-ignore">
-                      <a href="https://www.facebook.com/limpiezaind">Limpieza Total HLVE</a>
+                  <div class="fb-page" data-href="https://www.facebook.com/trockerosvisados/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/trockerosvisados/" class="fb-xfbml-parse-ignore">
+                      <a href="https://www.facebook.com/trockerosvisados/">
+                        Vacantes P/Traileros P/EUA
+                      </a>
                     </blockquote>
-                  </div> */}
+                  </div>
                   {/* <ul>
                     <li>
                       <a href="#">About Us</a>
@@ -101,31 +103,31 @@ export default function Footer() {
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">
                 <div className="footer-link-contact">
-                  <h4></h4>
-                  {/* <ul>
+                  <h4>Encuentra nos también en</h4>
+                  <ul>
                     <li>
                       <p>
                         <i className="fas fa-globe"></i>
-                        <a href="https://icamar.com/">
-                          www.icamar.com
+                        <a href="https://empleosmexy.com/">
+                          www.empleosmexy.com
                         </a>
                       </p>
                     </li>
                     <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://construriomar.com">www.construriomar.com</a>
+                        <a href="https://labormexy.com">www.labormexy.com</a>
                       </p>
                     </li>
-                    <li>
+                    {/* <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://albercasdelmar.com">
-                          www.albercasdelmar.com
+                        <a href="https://mexicanlaborforce.com">
+                          www.mexicanlaborforce.com
                         </a>
                       </p>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
                         <a href="https://friopolar.com">
@@ -148,8 +150,8 @@ export default function Footer() {
                           www.georiomar.com
                         </a>
                       </p>
-                    </li>
-                  </ul> */}
+                    </li> */}
+                  </ul>
                 </div>
               </div>
             </div>

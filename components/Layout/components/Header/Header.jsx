@@ -8,7 +8,7 @@ export default function Header() {
   const cartItemsCount = useSelector((state) => state.cart.length);
   return (
     <>
-      {/* <TopBar /> */}
+      <TopBar />
       <header className="main-header">
         <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-default bootsnav">
           <div className="container">
