@@ -62,7 +62,7 @@ export default function HeroSlider() {
                   </strong>
                 </h1>
                 <p className="m-b-40">
-                  .{" "}
+                  {" "}
                   <br />
                 </p>
                 <p>
