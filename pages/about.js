@@ -26,7 +26,7 @@ export default function About() {
                 Nosotros<span></span>
               </h2>
               <p>
-               
+                AsCarreterra es un grupo de consultores de origen latinoamericano que trabajan o desean trabajar en Canadá & EUA bajo los principios de unión, confianza y ayuda mutua.
               </p>
               <p>
                
@@ -36,37 +36,37 @@ export default function About() {
               <div className="banner-frame">
                 <img
                   className="img-thumbnail img-fluid"
-                  src="images/10.jpg"
+                  src="images/05.jpg"
                   alt=""
                 />
               </div>
             </div>
           </div>
-          <div className="row my-5">
+          {/* <div className="row my-5">
             <div className="col-sm-6 col-lg-4">
               <div className="service-block-inner">
-                {/* <h3>Calidad en el servicio</h3> */}
+                <h3>Calidad en el servicio</h3>
                 <p>
                 </p>
               </div>
             </div>
             <div className="col-sm-6 col-lg-4">
               <div className="service-block-inner">
-                {/* <h3>Mas de 30 años de experiencia</h3> */}
-                <p>
-
-                </p>
-              </div>
-            </div>
-            <div className="col-sm-6 col-lg-4">
-              <div className="service-block-inner">
-                {/* <h3>Personal capasitado y certificado</h3> */}
+                <h3>Mas de 30 años de experiencia</h3>
                 <p>
 
                 </p>
               </div>
             </div>
-          </div>
+            <div className="col-sm-6 col-lg-4">
+              <div className="service-block-inner">
+                <h3>Personal capasitado y certificado</h3>
+                <p>
+
+                </p>
+              </div>
+            </div>
+          </div> */}
           {/* <OurTeam /> */}
         </div>
       </div>

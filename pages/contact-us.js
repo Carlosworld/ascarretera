@@ -1,4 +1,6 @@
 import React from "react";
+import Contacto from "../components/Contacto/Contacto";
+
 
 export default function ContactUs() {
   return (
@@ -8,7 +10,7 @@ export default function ContactUs() {
             <h2 className="centrar-texto">Contacto</h2>
             <div className="grid centrar-columnas ">
                 <div className="columnas-12">
-                    <img src="images/contacto.jpg" alt="imagen contacto" width="100%" />
+                    <img src="images/01.jpg" alt="imagen contacto" width="100%" />
                 </div>
 
                 <div className="columnas-10 formulario-contacto">
@@ -33,6 +35,7 @@ export default function ContactUs() {
                             <input type="submit" value="Enviar" className="btn-two btn-primario" />
                         </div>
                     </form>
+                <Contacto />
                 </div>
             </div>
         </div>
