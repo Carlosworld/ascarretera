@@ -54,13 +54,6 @@ const Info = () => {
                     </p>
                 </div>
                 </div>
-                <div className="col-sm-6 col-lg-4">
-                <div className="service-block-inner">
-                    <h3>Dominio en el idioma inglés.</h3>
-                    <p>
-                    </p>
-                </div>
-                </div>
             </div>
                     {/* <OurTeam /> */}
                 </div>

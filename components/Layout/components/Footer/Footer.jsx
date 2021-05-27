@@ -14,7 +14,7 @@ export default function Footer() {
                 <div className="footer-widget">
                   <h4>Sobre Ascarretera</h4>
                   <p>
-                    Nicolas Bravo 341. centro, Cd. Lázaro Cárdenas, Mich, Mx.
+                    Nicolás  Bravo 341, Centro, Cd. L. Cárdenas, Mich, Mx.
                     <br />
                     Horarios de atención.
                     <br />
@@ -22,9 +22,9 @@ export default function Footer() {
                     <br />
                     Sábados de 7:00am a 2:00pm.
                     <br />
-                    Teléfonos (753) 537 3761, (753) 540 5810 y (753) 139 7277.
+                    Teléfonos:<br />+52 (753) 537 3761,  <br />+52 (753) 139 7277,  <br />+52 (753) 540 5810.
                   </p>
-                  {/* <ul>
+                  <ul>
                     <li>
                       <a href="#">
                         <i className="fab fa-facebook" aria-hidden="true"></i>
@@ -36,6 +36,11 @@ export default function Footer() {
                       </a>
                     </li>
                     <li>
+                      <a href="#">
+                        <i className="fab fa-instagram" aria-hidden="true"></i>
+                      </a>
+                    </li>
+                    {/* <li>
                       <a href="#">
                         <i className="fab fa-linkedin" aria-hidden="true"></i>
                       </a>
@@ -60,13 +65,13 @@ export default function Footer() {
                           aria-hidden="true"
                         ></i>
                       </a>
-                    </li>
+                    </li> */}
                     <li>
                       <a href="#">
                         <i className="fab fa-whatsapp" aria-hidden="true"></i>
                       </a>
                     </li>
-                  </ul> */}
+                  </ul>
                 </div>
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">

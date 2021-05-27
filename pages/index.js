@@ -6,6 +6,7 @@ import Mapa from "../components/Mapa/Mapa";
 import Contacto from "../components/Contacto/Contacto";
 import Info from "../components/Info/Info";
 import Infopage from "../components/Infopage/Infopage";
+import OurServices from "../pages/our-services";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Info />
       <PageTitleBox />
       <Infopage />
+      <OurServices />
       {/* <ShopCategories /> */}
       {/* <FeaturedProducts /> */}
       <Mapa />
