@@ -124,38 +124,38 @@ export default function Footer() {
                         <a href="https://labormexy.com">www.labormexy.com</a>
                       </p>
                     </li>
-                    {/* <li>
+                    <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
                         <a href="https://mexicanlaborforce.com">
                           www.mexicanlaborforce.com
                         </a>
                       </p>
-                    </li> */}
-                    {/* <li>
+                    </li>
+                    <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://friopolar.com">
-                          www.friopolar.com
+                        <a href="https://unionmigrante.com">
+                          www.unionmigrante.com
                         </a>
                       </p>
                     </li>
                     <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://pozosriomar.com">
-                          www.pozosriomar.com
+                        <a href="https://globalmexy.com">
+                          www.globalmexy.com
                         </a>
                       </p>
                     </li>
                     <li>
                       <p>
                         <i className="fas fa-globe"></i>{" "}
-                        <a href="https://georiomar.com">
-                          www.georiomar.com
+                        <a href="https://elynconsultoriainternacional.com">
+                          www.elynconsultoriainternacional.com
                         </a>
                       </p>
-                    </li> */}
+                    </li>
                   </ul>
                 </div>
               </div>
